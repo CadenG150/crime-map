@@ -1,0 +1,56 @@
+body {
+    background: url(/images/googlemap.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.header {
+    text-align: center;
+    font-weight: bold;
+    font-size: 8vw;
+    font-family: 'Oswald', sans-serif;
+}
+
+.slogan {
+    text-align: center;
+    font-weight: bold;
+    font-size: 2vw;
+    font-family: 'Oswald', sans-serif;
+}
+
+.map-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+.myButton {
+	background-color:#0541f5;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius: 1em;
+	border: 1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:2vw;
+	padding:16px 31px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background-color:#147eff;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.button-wrapper {
+    text-align: center;
+    padding-top: 5%;
+}

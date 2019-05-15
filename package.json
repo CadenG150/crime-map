@@ -1,0 +1,31 @@
+{
+  "name": "greekspizzeria",
+  "version": "1.0.0",
+  "description": "Website For Greeks Pizzeria",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CadenG150/greekspizzeria.git"
+  },
+  "keywords": [
+    "greeks",
+    "pizza",
+    "greekspizzeria"
+  ],
+  "author": "Caden Grey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CadenG150/greekspizzeria/issues"
+  },
+  "homepage": "https://github.com/CadenG150/greekspizzeria#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-session": "^1.16.1",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.19.0"
+  }
+}
